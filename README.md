@@ -1,2 +1,2 @@
 # ejercicios
-Repositorio para subir ejercicios del Bootcamp Curso Java
+Repositorio que contiene ejercicios realizados en el Bootcamp Desarrollo de Aplicaciones Full Stack Java Trainee v2.0
